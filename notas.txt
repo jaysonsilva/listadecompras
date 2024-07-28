@@ -1,2 +1,6 @@
 Presente
 Livros
+Casa
+Gato
+Avião
+França
